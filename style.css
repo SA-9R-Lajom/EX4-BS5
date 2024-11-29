@@ -1,0 +1,12 @@
+body {
+    background-color:#003566;
+}
+
+.container {
+	background-color: cadetblue;
+    padding: 15px;
+    box-shadow: -4px 10px 5px 0px rgba(0,21,255,0.75);
+-webkit-box-shadow: -4px 10px 5px 0px rgba(0,21,255,0.75);
+-moz-box-shadow: -4px 10px 5px 0px rgba(0,21,255,0.75);
+}
+
